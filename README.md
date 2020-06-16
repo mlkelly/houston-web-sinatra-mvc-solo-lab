@@ -10,11 +10,11 @@
 
 Create CRUD operations
 
-1. See all the puppies on index page
-2. Click on the link from the index page to see individual puppy
-3. Create a new puppy
-4. Edit an exsiting puppy
-5. Delete an exsiting puppy
+<!-- 1. See all the puppies on index page -->
+<!-- 2. Click on the link from the index page to see individual puppy -->
+<!-- 3. Create a new puppy -->
+<!-- 4. Edit an exsiting puppy -->
+<!-- 5. Delete an exsiting puppy -->
 
 ## How to submit?
 - Go to your teachers, give a (virtual)high-five, and show your code
